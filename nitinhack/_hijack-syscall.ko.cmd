@@ -1,0 +1,1 @@
+cmd_/home/nitin/Desktop/nitinhack/hijack-syscall.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/nitin/Desktop/nitinhack/hijack-syscall.ko /home/nitin/Desktop/nitinhack/hijack-syscall.o /home/nitin/Desktop/nitinhack/hijack-syscall.mod.o
